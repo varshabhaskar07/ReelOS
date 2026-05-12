@@ -2,6 +2,8 @@
 
 > One operator. 10 channels. 20 reels/day. AI handles the cognitive work. The operator handles the judgment work.
 
+
+DEMO: https://drive.google.com/file/d/159C2QAe5DQGqgCQsBQi7Va4YfcpdIWCM/view?usp=drive_link
 ---
 
 ## What This Is
